@@ -2,6 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
+[Hosted here on github](https://genmaalpaca.github.io/frontendmentor-qr-code/qr-code-component-main/index.html)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
